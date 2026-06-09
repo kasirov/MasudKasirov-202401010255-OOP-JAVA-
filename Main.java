@@ -5,5 +5,7 @@ public class Main {
         s1.displayInfo();
         s1.isStudying();
         s1.takeExam();
+
+        System.out.println("Good job Lad!");
     }
 }
