@@ -1,0 +1,9 @@
+# 1. Why are the variables declared private?
+    If we declare any variable public, anyone can access our code and change its value which is very unlikely 
+    for our situation, thats why we declare private vARIABLES.
+# 2. What happens if variables are declared public?
+    Anyonee can change the value of our varaible, for example if we just write:
+        public String studentID; anyone can do > student.StudentID = "ABCD1234"
+# 3. Why do we use setters and getters?
+    Setters are used to update or change the value of a private variable.
+    Getters return or reads the value of private variable.
